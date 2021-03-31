@@ -76,7 +76,7 @@
 - 사용 기술스택
     - Java, Jsp
     - Javascript
-    - struts, iBatis(구 버전)
+    - struts2, iBatis(구 버전)
     - Spring(eGovFramework), MyBatis(신 버전)
     - ffmpeg
     - Oracle, MySQL, MariaDB
