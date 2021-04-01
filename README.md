@@ -201,6 +201,7 @@
     - Spring Boot 2.x + Data JPA + QueryDSL 를 학습하여 간단한 게시글과 댓글 기능을 구현
     - 각 기능 단위별로 단위 테스트 코드를 작성
     - N + 1 문제를 해결하기 위해서 fetch join과 fetch Batch Size를 활용
+    - 추후 자동 배포를 위한 CI/CD 를 구축해볼 예정
     
 
 <br>
