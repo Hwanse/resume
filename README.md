@@ -3,6 +3,7 @@
 ### 기본 정보
 - 이메일: khsb2012@gmail.com
 - github: https://github.com/Hwanse
+- 블로그: https://velog.io/@khsb2012
 
 <br><br>
 
