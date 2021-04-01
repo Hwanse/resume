@@ -162,7 +162,7 @@
 <br>
 
 **동영상 인코딩 구버전의 솔루션 시스템 전환 작업**     
-- 설명: 기존의 Struts2 를 사용한 동영상 솔루션 시스템의 UI 변경작업과 백엔드 프레임워크를 eGovFramework로 전환하는 작업
+- 설명: 기존 Struts2 기반의 동영상 솔루션 시스템 UI 변경작업과 백엔드 프레임워크를 eGovFramework로 전환하는 작업
 - 사용 기술스택
     - struts2
     - Spring(eGovFramework)
