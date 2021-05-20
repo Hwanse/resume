@@ -207,8 +207,8 @@
 - 인원: 5명
 - 사용 기술스택
     - Java,Jsp
-    - Spring
-    - Junit
+    - Spring, MVC
+    - MyBatis
     - Oracle
     - 기타 라이브러리
       - Selenium Java
