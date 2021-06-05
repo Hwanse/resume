@@ -44,7 +44,7 @@
     - Oracle
     - MySQL
   - tomcat
-  - apache, nginx
+  - nginx
   - ffmpeg
   - Linux
   - Git, SVN
