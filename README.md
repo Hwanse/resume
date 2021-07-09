@@ -26,11 +26,9 @@
 <br>
 
 ### 기술 스택
-- 언어
-  - Java(주 사용 언어)
-  - javascript(jQeury)
-  - HTML/CSS
 - 백엔드
+    - Java(주 사용 언어)
+    - JSP
     - Spring
       - SpringBoot
       - MVC
@@ -38,7 +36,10 @@
     - MyBatis
     - JPA
 - 프론트엔드
-  - 백엔드에서 가공된 데이터로 간단한 페이지 개발 가능
+  - javascript(jQeury)
+  - HTML/CSS
+  - JSP를 활용하여 간단하게 Admin 성격의 페이지 개발 가능
+  - Vue.js (스터디 중)
 - 기타
   - DB  
     - Oracle
