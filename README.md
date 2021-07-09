@@ -39,7 +39,6 @@
   - javascript(jQeury)
   - HTML/CSS
   - JSP를 활용하여 간단하게 Admin 성격의 페이지 개발 가능
-  - Vue.js (스터디 중)
 - 기타
   - DB  
     - Oracle
