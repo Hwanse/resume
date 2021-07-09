@@ -180,22 +180,6 @@
 <br>
 
 ### 개인 프로젝트
-**간단한 게시판 프로젝트**       
-- 기간: 2021.03 ~
-- 사용 기술스택
-    - Java
-    - Spring Boot 2.x
-    - Data JPA + QueryDSL
-    - Junit5 + Mockito
-    - ThymeLeaf
-    - H2 DB
-- 설명
-    - 실무에서 Spring 4.1 버전의 eGovFramework 와 MyBatis의 조합으로 개발해와서 다른 스택으로 구현해보고 싶어서 시작
-    - Spring Boot 2.x + Data JPA + QueryDSL 를 학습하여 간단한 게시글과 댓글 기능을 구현
-    - 각 기능 단위별로 단위 테스트 코드를 작성
-    - N + 1 문제를 해결하기 위해서 fetch join과 fetch Batch Size를 활용
-    
-<br>
 
 **대전시 상권분석 시스템(WEB)**         
 - 설명: 대전의 소상공인을 위한 대전시의 상권 분석결과를 제공하는 시스템
